@@ -22,6 +22,6 @@ public class App
         		n=n-m;
         	}
         }
-        System.out.println("hcf of numbers: "+m);
+        System.out.println("hcf of numbers: "+m);//said pl-commenting
     }
 }
