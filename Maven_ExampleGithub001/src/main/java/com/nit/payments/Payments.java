@@ -7,4 +7,7 @@ public class Payments {
 	public void cardPayments() {
 		System.out.println("card payment are done");
 	}
+	public void excelReport() {
+		System.out.println("excel reports are done");
+	}
 }
