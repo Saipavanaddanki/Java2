@@ -10,4 +10,7 @@ public class Payments {
 	public void excelReport() {
 		System.out.println("excel reports are done");
 	}
+	public void pdfReports() {
+		System.out.println("Pdf reports generated");
+	}
 }
